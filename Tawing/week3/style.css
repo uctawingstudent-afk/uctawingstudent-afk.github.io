@@ -1,0 +1,24 @@
+h1{
+    color: pink;
+    font-size: 24px;
+    border: 5px solid black;
+    width: 50%
+    padding: 10px
+    text-align: center;
+    margin-bottom:  100px;
+
+
+}
+.par1{
+    color: pink;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Limelight", sans-serif;
+    border:5px solid black;
+ 
+}
+
+body{
+    background-image: url(images/blackpink.jpg);
+    background-size: cover;
+}    
