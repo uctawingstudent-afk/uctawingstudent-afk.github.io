@@ -1,0 +1,46 @@
+.head1 {
+    text-align: end;
+    color: white;
+}
+.head2{
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-color: #16365d;
+}
+
+.line1{
+    color: red;
+}
+
+.line2{
+    color: rgb(240, 8, 190);
+}
+
+.head3{
+    color: white;
+    background-color: black;
+    width: 25%;
+}
+
+.head4{
+    color: rgb(26, 235, 19);
+    font-size: 19px;
+}
+
+.part6{
+    color: white;
+    background-color: black;
+}
+
+.head5{
+    color: yellow;
+    font-size: 16px;
+}
+
+.part7{
+    color: white;
+    background-color: red;
+}
