@@ -1,0 +1,53 @@
+.card{
+    border: solid black;
+    width: 25%;
+    border-radius: 10px;
+    padding: 20px;
+  
+}
+
+h2, p{
+    margin: 0;
+}
+
+
+.card-header{
+    display flex;
+}
+
+.card-header{
+  border-bottom: 1px solid;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+
+}
+
+.border{
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.card2{
+    border: solid black;
+    width: 25%;
+    border-radius: 10px;
+}
+.card3{
+    border: solid black;
+    width: 25%;
+    border-radius: 10px;
+
+}
+
+.btn{
+    border:none;
+    background: linear-gradient(90deg,rgba(255, 56, 159, 1) 11%, rgba(255, 173, 211, 1) 17%, rgba(87, 199, 133, 1) 26%, rgba(237, 221, 83, 1) 100%);
+    color: white;
+    padding: 10px 20px;
+    border-radius:100px;
+}
+
+.btn:hover{
+    background: linear-gradient(90deg,rgba(0, 188, 191, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    cursor: pointer;
+}
